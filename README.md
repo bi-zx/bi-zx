@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
-<!--     •<b><a href="https://github.com/rust-lang/rust">Rustacean</a></b> -->
-<!--     •<b><a href="https://github.com/golang/go">Gopher</a></b> -->
-    <b><a href="https://bi-zx.github.io">Blogs</a></b>
-    •<b><a href="647617764@qq.com">Email</a></b>
+<!--     • <b><a href="https://github.com/rust-lang/rust">Rustacean</a></b> -->
+<!--     • <b><a href="https://github.com/golang/go">Gopher</a></b> -->
+    <b><a href="https://blog.feiyu05.top/">Blog</a></b>
+    • <b><a href="647617764@qq.com">Email</a></b>
 </p>
 
 <a href="" target="_blank"><img align="right" src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320"/></a>
