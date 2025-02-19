@@ -9,10 +9,11 @@
     <!-- •<b><a href="647617764@qq.com">Email</a></b> -->
 </p>
 
-<a href="" target="_blank"><img align="right" src="https://octodex.github.com/images/justicetocat.jpg" width="220" height="220"/></a>
+<a href="" target="_blank"><img align="right" src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320"/></a>
 
+#### Coding Language:
 <h4 align="left">
-    <b><a>Coding Language</a></b>
+<!--     <b><a>Coding Language</a></b> -->
     <a href="https://www.rust-lang.org/"> <img src="https://img.shields.io/badge/rust-d07f4f.svg?&style=for-the-badge&logo=rust&logoColor=white" align="center" /> </a>
 <!--     <a href="https://golang.org/"> <img src="https://img.shields.io/badge/go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> </a> -->
 <!--     <a href="https://elixir-lang.org/"> <img src="https://img.shields.io/badge/elixir-9a3ea8?style=for-the-badge&logo=elixir&logoColor=white"/> </a> -->
@@ -24,8 +25,9 @@
 <!--     <a href="https://www.ruby-lang.org/"> <img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" /> </a> -->
 </h4>
 
+#### Operating System:
 <h4 align="left">
-    <b><a>Operating System</a></b>
+<!--     <b><a>Operating System</a></b> -->
 <!--     <a href="https://neovim.io/"> <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/> </a> -->
     <a href="https://www.archlinux.org/"> <img src="https://img.shields.io/badge/arch-%231793d1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white" align="center" /> </a>
 <!--     <a href=""> <img src="https://img.shields.io/badge/win10-%23008080.svg?&style=for-the-badge&logo=windows&logoColor=white"/> </a> -->
@@ -35,16 +37,18 @@
     <a href=""> <img src="https://img.shields.io/badge/windows11-0078D4?style=for-the-badge&logo=windows11&logoColor=ffffff" align="center" /> </a>
 </h4>
 
+#### Development Tools:
 <h4 align="left">
-    <b><a>Development Tools</a></b>
+<!--     <b><a>Development Tools</a></b> -->
     <a href=""> <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=ffffff" align="center" /> </a>
     <a href=""> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" align="center" /> </a>
     <a href=""> <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" align="center" /> </a>
     <a href=""> <img src="https://img.shields.io/badge/gnu%20bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=ffffff" align="center" /> </a>
 </h4>
 
+#### Libraries / Frameworks:
 <h4 align="left">
-    <b><a>Libraries / Frameworks</a></b>
+<!--     <b><a>Libraries / Frameworks</a></b> -->
     <a href=""> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=ffffff" align="center" /> </a>
     <a href=""> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=ffffff" align="center" /> </a>
     <a href=""> <img src="https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=ffffff" align="center" /> </a>
