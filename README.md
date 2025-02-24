@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center">
 <!--     • <b><a href="https://github.com/rust-lang/rust">Rustacean</a></b> -->
 <!--     • <b><a href="https://github.com/golang/go">Gopher</a></b> -->
-    <b><a href="https://blog.feiyu05.top/">Blog</a></b>
+    <b><a href="https://feiyu05.top/">Blog</a></b>
     • <b><a href="647617764@qq.com">Email</a></b>
 </p>
 
